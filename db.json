@@ -1,0 +1,90 @@
+{
+  "user": [
+    {
+      "name": "rami",
+      "email": "rami@234.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "email": "ya@ser.com",
+      "password": "111111",
+      "name": "yasser",
+      "id": 2
+    },
+    {
+      "email": "han@123.com",
+      "password": "22222",
+      "name": "han",
+      "id": 3
+    },
+    {
+      "email": "tre@123.com",
+      "password": "343434",
+      "name": "tre",
+      "id": 4
+    },
+    {
+      "email": "tre@123.com",
+      "password": "343434",
+      "name": "tre",
+      "id": 5
+    },
+    {
+      "email": "amir@123.com",
+      "password": "6666",
+      "name": "amira",
+      "id": 6
+    },
+    {
+      "name": "3aleg",
+      "contact": "22331",
+      "address": "23st,qtga,cairo",
+      "id": 7
+    }
+  ],
+  "restraunt": [
+    {
+      "name": "el-n",
+      "address": "23st,el-hsra,cairo",
+      "contact": "11111",
+      "id": "1"
+    },
+    {
+      "name": "ta3aleg",
+      "contact": "11331",
+      "address": "23st,qesra,cairo",
+      "id": "3"
+    },
+    {
+      "name": "3aleg",
+      "contact": "22331",
+      "address": "23st,qtga,cairo",
+      "id": "4zmum3L"
+    },
+    {
+      "name": "raid",
+      "address": "sfc",
+      "contact": "243344",
+      "id": "IDV0szz"
+    },
+    {
+      "name": "you",
+      "address": "dfgc",
+      "contact": "46446",
+      "id": "AhpY7qj"
+    },
+    {
+      "name": " bjjkk",
+      "address": "kkl",
+      "contact": "kknk",
+      "id": "U5aRsEX"
+    },
+    {
+      "name": "3aleg",
+      "contact": "22331",
+      "address": "23st,qtga,cairo",
+      "id": "k726AzR"
+    }
+  ]
+}
